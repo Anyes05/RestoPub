@@ -1,6 +1,6 @@
 # RestoPub - Sistema de Gestión para Restaurante
 
-Proyecto académico desarrollado en C++ para la materia Programación Avanzada.
+Proyecto académico desarrollado en C++ para la materia Programación Avanzada por un equipo de 5 estudiantes del Tecnólogo en Informática (UTEC).
 
 ## Descripción
 
@@ -56,6 +56,21 @@ El proyecto fue desarrollado aplicando conceptos de análisis y diseño orientad
 * Mozo
 * Repartidor
 * Cliente
+
+---
+
+# Trabajo en Equipo
+
+El proyecto fue realizado de forma colaborativa entre 5 estudiantes, utilizando trabajo en equipo para el diseño, modelado e implementación del sistema.
+
+Durante el desarrollo se trabajó en:
+
+* Modelado UML
+* Diseño orientado a objetos
+* Implementación en C++
+* Integración de componentes
+* Testing y depuración
+* Organización del proyecto
 
 ---
 
